@@ -7,8 +7,8 @@ client = language.LanguageServiceClient()
 
 reddit = praw.Reddit(client_id= 'FiYE4ww3cnEQDQ' ,
 	client_secret = 'Vk7Fwl9DJTHX7dCqsJpviK82H8E',
-	username='TheHeartlessOne2121',
-	password='Liveon21',
+	username='',
+	password='',
 	user_agent='SAVEapp')
 
 subreddit = reddit.subreddit('SuicideWatch')
